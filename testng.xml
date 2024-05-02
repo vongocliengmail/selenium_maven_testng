@@ -7,5 +7,5 @@
       <class name="testrunners.Test_BuyADog"/>
       <class name="testrunners.Test_BuyAFish"/>
     </classes>
-  </test> <!-- Pet Tests -->
+  </test> <!-- Pet Tests  -->
 </suite> <!-- PetStore Test Suite -->
